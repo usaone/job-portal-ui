@@ -1,9 +1,10 @@
 {
-  "enabledPlugins": {
-    "commit-commands@claude-plugins-official": true
-  }, 
   "statusLine": {
     "type": "command",
     "command": "bash .claude/statusline-command.sh"
+  },
+  "enabledPlugins": {
+    "commit-commands@claude-plugins-official": true,
+    "commit-commands@anthropic-plugin-directory": true
   }
 }
