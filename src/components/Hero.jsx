@@ -49,13 +49,9 @@ const Hero = () => {
               Find Your{" "}
               <span className="relative inline-block">
                 <span className="bg-gradient-to-r from-primary-600 via-purple-600 to-blue-600 bg-clip-text text-transparent animate-pulse">
-                  Dream Job
+                  Dream Car!
                 </span>
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-600 via-purple-600 to-blue-600 blur-2xl opacity-20 animate-pulse"></div>
-              </span>
-              <br />
-              <span className="text-primary-600 dark:text-primary-400">
-                Today
               </span>
             </h1>
 
